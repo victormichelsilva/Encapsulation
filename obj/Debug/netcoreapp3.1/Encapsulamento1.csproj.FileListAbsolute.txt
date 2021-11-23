@@ -1,0 +1,14 @@
+D:\Victor\Estudos\C#\Encapsulamento1\bin\Debug\netcoreapp3.1\Encapsulamento1.exe
+D:\Victor\Estudos\C#\Encapsulamento1\bin\Debug\netcoreapp3.1\Encapsulamento1.deps.json
+D:\Victor\Estudos\C#\Encapsulamento1\bin\Debug\netcoreapp3.1\Encapsulamento1.runtimeconfig.json
+D:\Victor\Estudos\C#\Encapsulamento1\bin\Debug\netcoreapp3.1\Encapsulamento1.runtimeconfig.dev.json
+D:\Victor\Estudos\C#\Encapsulamento1\bin\Debug\netcoreapp3.1\Encapsulamento1.dll
+D:\Victor\Estudos\C#\Encapsulamento1\bin\Debug\netcoreapp3.1\Encapsulamento1.pdb
+D:\Victor\Estudos\C#\Encapsulamento1\obj\Debug\netcoreapp3.1\Encapsulamento1.csproj.AssemblyReference.cache
+D:\Victor\Estudos\C#\Encapsulamento1\obj\Debug\netcoreapp3.1\Encapsulamento1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Estudos\C#\Encapsulamento1\obj\Debug\netcoreapp3.1\Encapsulamento1.AssemblyInfoInputs.cache
+D:\Victor\Estudos\C#\Encapsulamento1\obj\Debug\netcoreapp3.1\Encapsulamento1.AssemblyInfo.cs
+D:\Victor\Estudos\C#\Encapsulamento1\obj\Debug\netcoreapp3.1\Encapsulamento1.csproj.CoreCompileInputs.cache
+D:\Victor\Estudos\C#\Encapsulamento1\obj\Debug\netcoreapp3.1\Encapsulamento1.dll
+D:\Victor\Estudos\C#\Encapsulamento1\obj\Debug\netcoreapp3.1\Encapsulamento1.pdb
+D:\Victor\Estudos\C#\Encapsulamento1\obj\Debug\netcoreapp3.1\Encapsulamento1.genruntimeconfig.cache
